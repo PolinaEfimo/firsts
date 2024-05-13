@@ -1,4 +1,4 @@
 # firsts
 '''python
-"Hello my friend!"
+print("Hello my friend!")
 '''
